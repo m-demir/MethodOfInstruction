@@ -1,2 +1,2 @@
 # MethodOfInstruction
-This are the videos from MicroTeaching exercise
+These are the videos from MicroTeaching exercise
